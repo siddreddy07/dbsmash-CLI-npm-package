@@ -20,7 +20,7 @@ Describe your app in plain English, select a database, and DbSmash generates pro
 - 🧠 Generates ER diagrams
 - 🧪 Automates backend database setup
 
-**[Checkout Website](https://dbsmash.netlify.app/)**  **[npm package](https://www.npmjs.com/package/dbsmash)**
+**[Checkout Website](https://dbsmash.netlify.app/)**  <--->  **[npm package](https://www.npmjs.com/package/dbsmash)**
 
 ## 📦 Installation
 
